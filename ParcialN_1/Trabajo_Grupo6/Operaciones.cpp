@@ -12,5 +12,3 @@ float Operaciones::denominador_resultante(float den1,float den2)
 {
 	return (den1+den2);
 }
-
-

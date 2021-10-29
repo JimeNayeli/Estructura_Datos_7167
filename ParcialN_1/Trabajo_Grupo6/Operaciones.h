@@ -8,8 +8,6 @@ public:
     float denominador_resultante(float,float);
     
     
-    
-    
 protected:
 private:
 	
