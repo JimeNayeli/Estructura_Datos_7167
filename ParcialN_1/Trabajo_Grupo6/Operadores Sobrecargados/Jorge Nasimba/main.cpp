@@ -1,5 +1,15 @@
 #include <iostream>
+/***********************************************************************
+ * Universidad de las Fuerzas Armadas ESPE
+ * Sobrecarga operador ==
+ * Autor:   Jorge Nasimba
+ * Fecha de creacion: Miercoles, Noviembre 4, 2021 20:10:27 PM
+ * Fecha de modificacion: Miercoles, Noviembre 4, 2021 21:15:18 PM
+ * NRC: 7167
+ * Nombre de la materia: Estructura de Datos
+ ***********************************************************************/
 using namespace std;
+
 
 class Vector {
   public: int x, y;
