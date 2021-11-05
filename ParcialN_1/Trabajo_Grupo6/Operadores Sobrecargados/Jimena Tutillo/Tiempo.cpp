@@ -13,11 +13,11 @@ Tiempo Tiempo::operator++(){
     return Tiempo(this->hora, this->minuto);
 }
 
-Tiempo Tiempo::operator++( int ) {
+Tiempo Tiempo::operator++(int) {
     Tiempo T(hora, minuto);
     ++this->minuto;                       
     if(this->minuto >= 60) {
-		++this->hora;
+	++this->hora;
         this->minuto -= 60;
     }
     return T; 
