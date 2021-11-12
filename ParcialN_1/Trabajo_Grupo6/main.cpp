@@ -1,25 +1,25 @@
-#include <iostream>
-#include "Fraccion.h"
-#include "Operaciones.h"
-/***********************************************************************
- * Universidad de las Fuerzas Armadas ESPE
- * Integrantes:  Paul Chillagana, Jorge Nasimba, Jimena Tutillo
- * Fecha de creacion: Jueves, October 28, 2021 5:49:23 PM
- * Fecha de modificacion: Jueves, October 28, 2021 7:49:23 PM
- * NRC: 7167
- * Nombre de la materia: Estructura de Datos
- ***********************************************************************/
 
-int main(int argc, char** argv) {
-	Operaciones op;
-	Fraccion f1(4,5);
-	Fraccion f2(6,3);
-	int numr=0,denr=0;
+#include <iostream>    
+#include <algorithm>    
+#include <vector>       
 
-	numr=op.numerador_resultante(f1.getNumerador(),f1.getDenominador(),f2.getNumerador(),f2.getDenominador());
-	denr=op.denominador_resultante(f1.getDenominador(),f2.getDenominador());
+int main () {
+  int primero[] = {5,10,15,20,25};
+  int segundo[] = {50,40,30,2,10};
+  std::vector<int> v(10);      
+  std::vector<int>::iterator it;
 
-	cout<<"Fraccion Resultante: "<<numr<<"/"<<denr;
-	
-	return 0;
+  std::sort (primero,primero+5);    
+  std::sort (segundo,segundo+5);  
+
+  it=std::set_union (primero, primero+5, segundo, segundo+5, v.begin());
+                                              
+  v.resize(it-v.begin());                      
+
+  std::cout << "La union tiene " << (v.size()) << " elementos:\n";
+  for (it=v.begin(); it!=v.end(); ++it)
+  std::cout << ' ' << *it;
+  std::cout << '\n';
+
+  return 0;
 }
