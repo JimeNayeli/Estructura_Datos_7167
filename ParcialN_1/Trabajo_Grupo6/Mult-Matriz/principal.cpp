@@ -2,6 +2,16 @@
 #include <stdlib.h>
 #include "Matriz.cpp"
 #include "Operacion.cpp"
+/***********************************************************************
+ * Universidad de las Fuerzas Armadas ESPE
+ * Programa: Multiplicacion de Matriz
+ * Autor:Paul Chillagana, Jorge Nacimba, Jimena Tutillo
+ * Fecha de creacion: Miercoles, Noviembre 13, 2021 4:10:23 PM
+ * Fecha de modificacion: Miercoles, Noviembre 13, 2021 5:50:23 PM
+ * NRC: 7167
+ * Nombre de la materia: Estructura de Datos
+ 
+***********************************************************************/
 
 using namespace std;
 
