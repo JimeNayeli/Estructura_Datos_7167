@@ -1,4 +1,5 @@
 #include <iostream>
+#include "lista.cpp"
 /***********************************************************************
  * Universidad de las Fuerzas Armadas ESPE
  * Programa: Listas 
@@ -9,10 +10,6 @@
  * Nombre de la materia: Estructura de Datos
  
 ***********************************************************************/
-	#include "lista.cpp"
-
-	
-
 	int main(){
 		lista Lista;
 		Lista.Insertar(20);
@@ -26,17 +23,12 @@
 		Lista.Ultimo();
 		cout << "Ultimo: " << Lista.ValorActual() << endl;
 		Lista.Borrar(10);
-
-			Lista.Borrar(25);
-			Lista.Borrar(45);
-			Lista.Borrar(30);
-			Lista.Mostrar(ASCENDENTE);
-			Lista.Mostrar(DESCENDENTE);
-			cin.get();
-			
-			
-			return 0;
-
-	
-	
+		Lista.Borrar(25);
+		Lista.Borrar(45);
+		Lista.Borrar(30);
+		Lista.Mostrar(ASCENDENTE);
+		Lista.Mostrar(DESCENDENTE);
+		cin.get();
+		
+	return 0;
 }
