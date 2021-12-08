@@ -72,7 +72,7 @@ namespace PruebasUnitarias
 		}
 		TEST_METHOD(validarEntero3)
 		{
-			std::string id = "123Yulli";
+			std::string id = "123Jim";
 			Assert::AreEqual(true, validarEntero(id));
 		}
 	};
@@ -91,7 +91,7 @@ namespace PruebasUnitarias
 		}
 		TEST_METHOD(create_email2)
 		{
-			Persona persona = Persona("1724701402", "Jimena", "Nayeli", "Tutillo", "Quito", "0984008409", "HAD345");
+			Persona persona = Persona("1724701402", "Paul", "Josue", "Chillagana", "Quito", "0984008409", "HAD346");
 			Lista list;
 			Nodo* primero;
 			std::string email = "jntutillo@espe.edu.ec";
@@ -99,7 +99,7 @@ namespace PruebasUnitarias
 		}
 		TEST_METHOD(create_email3)
 		{
-			Persona persona = Persona("1724701402", "Jimena", "Nayeli", "Tutillo", "Quito", "0984008409", "HAD345");
+			Persona persona = Persona("1724701402", "Jorge", "Steven", "Nascimba", "Quito", "0984008409", "HAD375");
 			Lista list;
 			Nodo* primero;
 			std::string email = "jntutillo@espe.edu.ec";
