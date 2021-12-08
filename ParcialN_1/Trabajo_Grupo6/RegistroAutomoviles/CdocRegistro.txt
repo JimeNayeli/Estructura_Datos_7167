@@ -1,0 +1,349 @@
+Primer nombre: fsf
+Segundo nombre: sdfsd
+Apellido: f
+Direccion sf
+Telefono 5454
+Placa fsf
+Primer nombre: eawea
+Segundo nombre: weae
+Apellido: sdad
+Direccion dasd
+Telefono 39874664
+Placa wer
+DATOS DEL CLIENTE Primer nombre: DSADAS
+Segundo nombre: DAD
+Apellido: DADAD
+Direccion DSADAS
+Telefono 369874
+Placa ERTGHD
+DATOS DEL CLIENTE Primer nombre: dfsdf
+Segundo nombre: sfsf
+Apellido: sfsf
+Direccion dsfsf
+Telefono 9697986
+Placa dsf
+
+DATOS DEL CLIENTE Primer nombre: dasdsad
+Segundo nombre: asdsad
+Apellido: sadasd
+Correo:      @espe.edu.ecDireccion adasd
+Telefono 9955
+Placa dad
+
+DATOS DEL CLIENTE Primer nombre: 
+Segundo nombre: 
+Apellido: 
+Direccion 
+Telefono 
+Placa 
+
+DATOS DEL CLIENTE Primer nombre: 
+Segundo nombre: 
+Apellido: 
+Direccion 
+Telefono 
+Placa 
+
+DATOS DEL CLIENTE Primer nombre: fsaf
+Segundo nombre: afwer
+Apellido: dad
+Direccion ad
+Telefono 4545
+Placa af
+
+DATOS DEL CLIENTE Primer nombre: dawe
+Segundo nombre: erer
+Apellido: a
+Direccion aaf
+Telefono 478
+Placa a
+
+DATOS DEL CLIENTE Primer nombre: fswfew
+Segundo nombre: re
+Apellido: rew
+Correo:  frrew @espe.edu.ecDireccion fa
+Telefono 45448
+Placa bbx
+
+DATOS DEL CLIENTE Primer nombre: jonathan
+Segundo nombre: paul
+Apellido: chillagana
+Correo:  jpchillagana @espe.edu.ecDireccion lenodias doubles
+Telefono 96978
+Placa jotak
+
+DATOS DEL CLIENTE Primer nombre: jonathan
+Segundo nombre: paul
+Apellido: chillagana
+Correo:  jpchillagana @espe.edu.ecDireccion lenodias doubles
+Telefono 96978
+Placa jotak
+
+DATOS DEL CLIENTE Primer nombre: melani
+Segundo nombre: mishell
+Apellido: niacato
+Correo:  mmniacato @espe.edu.ecDireccion caupicho
+Telefono 3816513
+Placa qwa100
+
+DATOS DEL CLIENTE Primer nombre: weewe
+Segundo nombre: dad
+Apellido: dad
+Correo:  wddad @espe.edu.ecDireccion ad
+Telefono 44
+Placa vfs
+
+DATOS DEL CLIENTE Primer nombre: jonathan
+Segundo nombre: paul
+Apellido: chillagana
+Correo:  jpchillagana @espe.edu.ecDireccion asd
+Telefono 4997
+Placa dad
+
+DATOS DEL CLIENTE Primer nombre: jonathan
+Segundo nombre: paul
+Apellido: chillagana
+Correo:  jpchillagana @espe.edu.ecDireccion asd
+Telefono 4997
+Placa dad
+
+DATOS DEL CLIENTE Primer nombre: marcia
+Segundo nombre: linia
+Apellido: fernanda
+Correo:  mlfernanda @espe.edu.ecDireccion asdwa
+Telefono 3816513
+Placa qwwe23
+
+DATOS DEL CLIENTE Primer nombre: dad
+Segundo nombre: Dd
+Apellido: ada
+Correo:  ddada @espe.edu.ecDireccion das
+Telefono 454
+Placa dsad
+
+DATOS DEL CLIENTE Primer nombre: dad
+Segundo nombre: Dd
+Apellido: ada
+Correo:  ddada @espe.edu.ecDireccion das
+Telefono 454
+Placa dsad
+
+DATOS DEL CLIENTE Primer nombre: daws
+Segundo nombre: dsad
+Apellido: adas
+Correo:  ddadas @espe.edu.ecDireccion dasd
+Telefono 46
+Placa asda
+
+DATOS DEL CLIENTE Primer nombre: daws
+Segundo nombre: dsad
+Apellido: adas
+Correo:  ddadas @espe.edu.ecDireccion dasd
+Telefono 46
+Placa asda
+
+DATOS DEL CLIENTE Primer nombre: loplo
+Segundo nombre: uou
+Apellido: uiou
+Correo:  luuiou @espe.edu.ecDireccion uio
+Telefono 444
+Placa oiu
+
+DATOS DEL CLIENTE Primer nombre: dad
+Segundo nombre: wewae
+Apellido: ada
+Correo:  dwada @espe.edu.ecDireccion dad
+Telefono 544
+Placa dasd
+
+DATOS DEL CLIENTE Primer nombre: dad
+Segundo nombre: wewae
+Apellido: ada
+Correo:  dwada @espe.edu.ecDireccion dad
+Telefono 544
+Placa dasd
+
+DATOS DEL CLIENTE Primer nombre: daw
+Segundo nombre: ew
+Apellido: ewe
+Correo:  deewe @espe.edu.ecDireccion ww
+Telefono 44
+Placa we
+
+DATOS DEL CLIENTE Primer nombre: dad
+Segundo nombre: wewae
+Apellido: ada
+Correo:  dwada @espe.edu.ecDireccion dad
+Telefono 544
+Placa dasd
+
+DATOS DEL CLIENTE Primer nombre: daw
+Segundo nombre: ew
+Apellido: ewe
+Correo:  deewe @espe.edu.ecDireccion ww
+Telefono 44
+Placa we
+
+DATOS DEL CLIENTE Primer nombre: dad
+Segundo nombre: we
+Apellido: w
+Correo:  dww @espe.edu.ecDireccion eqw
+Telefono 4
+Placa vs
+
+DATOS DEL CLIENTE Primer nombre: cadf
+Segundo nombre: ada
+Apellido: da
+Correo:  cada @espe.edu.ecDireccion dw
+Telefono 55
+Placa da
+
+DATOS DEL CLIENTE Primer nombre: cadf
+Segundo nombre: ada
+Apellido: da
+Correo:  cada @espe.edu.ecDireccion dw
+Telefono 55
+Placa da
+
+DATOS DEL CLIENTE Primer nombre: wew
+Segundo nombre: da
+Apellido: da
+Correo:  wdda @espe.edu.ecDireccion da
+Telefono 26
+Placa da
+
+DATOS DEL CLIENTE 
+Primer nombre: da
+Segundo nombre: ewae
+Apellido: awe
+Correo:  deawe @espe.edu.ec
+Direccion ada
+Telefono 98
+Placa dasd
+
+DATOS DEL CLIENTE 
+Primer nombre: da
+Segundo nombre: ewae
+Apellido: awe
+Correo:  deawe @espe.edu.ec
+Direccion ada
+Telefono 98
+Placa dasd
+
+DATOS DEL CLIENTE 
+Primer nombre: dad
+Segundo nombre: adada
+Apellido: das
+Correo:  dadas @espe.edu.ec
+Direccion dad
+Telefono 4
+Placa dad
+
+DATOS DEL CLIENTE 
+Primer nombre: dada
+Segundo nombre: dad
+Apellido: ada
+Correo:  ddada @espe.edu.ec
+Direccion d
+Telefono 154
+Placa fre
+
+DATOS DEL CLIENTE 
+Primer nombre: khk
+Segundo nombre: ku
+Apellido: gj
+Correo:  kkgj @espe.edu.ec
+Direccion gj
+Telefono 656
+Placa gj
+
+DATOS DEL CLIENTE 
+Primer nombre: jghj
+Segundo nombre: ghb
+Apellido: xv
+Correo:  jgxv @espe.edu.ec
+Direccion x
+Telefono 47
+Placa wea
+
+DATOS DEL CLIENTE 
+Primer nombre: sdfgsdf
+Segundo nombre: sdfsef
+Apellido: werwer
+Cedula 1726180134
+Correo:  sswerwer @espe.edu.ec
+Direccion werwer
+Telefono 9879
+Placa sdsdf6
+
+DATOS DEL CLIENTE 
+Primer nombre: sdfsdf
+Segundo nombre: ewrwer
+Apellido: sdgrewt
+Cedula 1712124773
+Correo:  sesdgrewt @espe.edu.ec
+Direccion werwer
+Telefono 897
+Placa sdf3
+
+DATOS DEL CLIENTE 
+Primer nombre: sdfgsdf
+Segundo nombre: sdfsef
+Apellido: werwer
+Cedula 1726180134
+Correo:  sswerwer @espe.edu.ec
+Direccion werwer
+Telefono 9879
+Placa sdsdf6
+
+DATOS DEL CLIENTE 
+Primer nombre: sdfsdf
+Segundo nombre: ewrwer
+Apellido: sdgrewt
+Cedula 1712124773
+Correo:  sesdgrewt @espe.edu.ec
+Direccion werwer
+Telefono 897
+Placa sdf3
+
+DATOS DEL CLIENTE 
+Primer nombre: sdfsdf
+Segundo nombre: werwer
+Apellido: werwer
+Cedula 1726180134
+Correo:  swwerwer @espe.edu.ec
+Direccion werwer
+Telefono 9879
+Placa 654wer
+
+DATOS DEL CLIENTE 
+Primer nombre: Jorge
+Segundo nombre: Andres
+Apellido: Nasimba
+Cedula 1726180134
+Correo:  janasimba34@espe.edu.ec
+Direccion Calle Sn
+Telefono 3821593
+Placa PQR456
+
+DATOS DEL CLIENTE 
+Primer nombre: Nayeli
+Segundo nombre: Jimena
+Apellido: Tutillo
+Cedula 1712124773
+Correo:  njtutillo73@espe.edu.ec
+Direccion Calle snt
+Telefono 3821737
+Placa TRY67
+
+DATOS DEL CLIENTE 
+Primer nombre: jimena
+Segundo nombre: nayeli
+Apellido: yutillo
+Cedula 1754084448
+Correo:  jnyutillo48@espe.edu.ec
+Direccion asd
+Telefono 123
+Placa HAD
+
+
