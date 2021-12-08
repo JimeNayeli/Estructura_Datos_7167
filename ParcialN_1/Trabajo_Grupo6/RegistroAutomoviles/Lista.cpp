@@ -102,6 +102,7 @@ void Lista ::archivo(){
 			}
 			
 			Persona persona = auxiliar->getPersona();
+			guardar<<"\n------------------------------------ "<<endl;
 			guardar<<"\nDATOS DEL CLIENTE "<<endl;
 			guardar<<"Primer nombre: "<<persona.getPrimerNombre()<<endl;
 			guardar<<"Segundo nombre: "<<persona.getSegundoNombre()<<endl;
@@ -111,6 +112,7 @@ void Lista ::archivo(){
 			guardar<<"Direccion :"<<persona.getDireccion()<<endl;
 			guardar<<"Telefono :"<<persona.getTelefono()<<endl;
 			guardar<<"Placa :"<<persona.getPlaca()<<endl;
+			guardar<<"\n------------------------------------ "<<endl;
 			guardar.close();
 		    auxiliar = auxiliar->getSiguiente();
 		}while(auxiliar!=primero);	
