@@ -6,9 +6,16 @@
 #include "Vector.h"
 #include "Auxiliar.h"
 
-
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
-
+/***********************************************************************
+ * Universidad de las Fuerzas Armadas ESPE
+ * Programa: Listas 
+ * Autor:Paul Chillagana, Jorge Nacimba, Jimena Tutillo
+ * Fecha de creacion: Viernes, Diciembre 16, 2021 4:10:23 PM
+ * Fecha de modificacion: Viernes, Diciembre 16, 2021 7:32:23 PM
+ * NRC: 7167
+ * Nombre de la materia: Estructura de Datos
+ 
+***********************************************************************/
 int main(int argc, char** argv) {
 	int opc,num;
 	char mensaje[]="\nDesea volver a realizar? S/N: "; 
